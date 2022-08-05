@@ -21,5 +21,5 @@ for st in T:
     else:
         print('No')
         currentpos=+1
-
+print('uno')
 
